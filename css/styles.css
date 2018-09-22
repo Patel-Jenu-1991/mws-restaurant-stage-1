@@ -127,9 +127,6 @@ nav h1 a {
   width: 100%;
   background-color: #ccc;
 }
-#map-container {
-  margin-top: 9.55em;
-}
 /* ====================== Restaurant Filtering ====================== */
 .filter-options {
   width: 100%;
@@ -227,6 +224,7 @@ nav h1 a {
   right: 0;
   order: 1;
   width: 100%;
+  margin-top: 9.55em;
 }
 .inside #map {
   background-color: #ccc;
